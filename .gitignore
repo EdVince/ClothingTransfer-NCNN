@@ -1,0 +1,6 @@
+.git
+__pycache__/
+*.pth
+*.onnx
+*.param
+*.bin
