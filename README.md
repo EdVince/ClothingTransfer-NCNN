@@ -7,7 +7,7 @@
 3. 依赖[Densepose](https://github.com/facebookresearch/detectron2/tree/main/projects/DensePose)的人体IUV图——[Detectron2](https://github.com/facebookresearch/detectron2)实现
 ##### 待完成工作
 - [x] OpenPose的ncnn&c++实现
-- [ ] LIP_JPPNet的ncnn&c++实现
+- [x] LIP_JPPNet的ncnn&c++实现
 - [ ] Densepose的ncnn&c++实现
 - [ ] CT-Net的ncnn&c++实现
 - [ ] 组合四个模型的ncnn&c++实现
