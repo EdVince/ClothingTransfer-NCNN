@@ -8,10 +8,10 @@
 ##### 待完成工作
 - [x] OpenPose的ncnn&c++实现
 - [x] LIP_JPPNet的ncnn&c++实现
-- [ ] Densepose的ncnn&c++实现
+- [x] Densepose的ncnn&c++实现
 - [ ] CT-Net的ncnn&c++实现
 - [ ] 组合四个模型的ncnn&c++实现
 - [ ] QT GUI实现
 - [ ] 撰写知乎文章
-- [ ] 额外预处理—[人像抠图](https://github.com/FeiGeChuanShu/ncnn_Android_RobustVideoMatting)
+- [ ] 额外预处理—人像抠图
 - [ ] 额外后处理—超分辨率
