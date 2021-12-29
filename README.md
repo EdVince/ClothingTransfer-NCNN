@@ -9,7 +9,7 @@
 - [x] OpenPose的ncnn&c++实现
 - [x] LIP_JPPNet的ncnn&c++实现
 - [x] Densepose的ncnn&c++实现
-- [ ] CT-Net的ncnn&c++实现
+- [x] CT-Net的ncnn&c++实现
 - [ ] 组合四个模型的ncnn&c++实现
 - [ ] QT GUI实现
 - [ ] 撰写知乎文章
