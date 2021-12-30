@@ -10,8 +10,7 @@
 - [x] LIP_JPPNet的ncnn&c++实现
 - [x] Densepose的ncnn&c++实现
 - [x] CT-Net的ncnn&c++实现
-- [ ] 组合四个模型的ncnn&c++实现
+- [x] 组合四个模型的ncnn&c++实现
 - [ ] QT GUI实现
+- [ ] QT+抠图 GUI实现
 - [ ] 撰写知乎文章
-- [ ] 额外预处理—人像抠图
-- [ ] 额外后处理—超分辨率
