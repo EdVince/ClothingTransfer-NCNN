@@ -24,6 +24,7 @@
 ### Resource
 1. 上图的集成了所有功能的[exe程序]()，由于一共集成了4个模型，因此非常大，有1个多G，同时运行也很缓慢，大约要一分钟
 2. 该github工程仅包含代码，实际运行调试需要模型，可以从上面的exe程序获取，再放到对应的位置就好了
+3. 知乎分析文章
 
 ### Content
 将CVPR2021的服装迁移模型[CT-Net](https://github.com/yf1019/CT-Net)搬运至[NCNN](https://github.com/Tencent/ncnn)框架上
