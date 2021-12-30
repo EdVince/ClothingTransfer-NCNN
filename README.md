@@ -11,6 +11,4 @@
 - [x] Densepose的ncnn&c++实现
 - [x] CT-Net的ncnn&c++实现
 - [x] 组合四个模型的ncnn&c++实现
-- [ ] QT GUI实现
-- [ ] QT+抠图 GUI实现
-- [ ] 撰写知乎文章
+- [x] QT GUI实现
